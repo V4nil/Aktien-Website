@@ -155,20 +155,16 @@ Ich habe alleine eine **Krypto-Website** entwickelt, die umfangreiche Informatio
 ---
 
 ## Fazit
-Die **Krypto-Website** bietet eine übersichtliche Plattform, um Informationen zu Kryptowährungen abzurufen. 
-Dank der **CoinGecko-API** können aktuelle Marktdaten (Preis, Volumen, Preisveränderungen) und historische Kursverläufe abgerufen werden. Die **Sortierfunktion** nach Marktkapitalisierung oder Volumen funktioniert zuverlässig, obwohl eine Filterfunktion in dieser Version noch nicht umgesetzt wurde. Eine **Watchlist** ermöglicht es, ausgewählte Kryptos zu speichern und sie jederzeit gesammelt einzusehen.
 
-- **Herausforderungen**:
-  - Sicherstellen einer **verlässlichen Performance**, da Live-Daten teils in grösseren Mengen abgerufen werden.
-  - **Responsive Design** mit TailwindCSS so zu gestalten, dass auch auf Mobilgeräten ein optimales Nutzererlebnis gewährleistet ist.
-  
-- **Ergebnisse**:
-  - Eine **intuitive** Website, bei der kein Login benötigt wird.
-  - Eine **Watchlist**, die den aktuellen Status der Krypto-Preise abbildet.
-  - **Historische Kursdaten** zur Verfolgung von Trends über verschiedene Zeiträume.
-  - **Sortierbare Kryptoliste** (Marktkapitalisierung, Volumen, auf-/absteigend).
+Trotz der unerwarteten Umstände – insbesondere dem Weggang meines Projektpartners, wodurch ich das Projekt alleine abschliessen musste – bin ich mit dem Resultat meiner Krypto-Website insgesamt zufrieden. Die Anwendung erfüllt die Grundanforderungen:
 
-Ich konnte wertvolle Erfahrungen in der Webentwicklung sammeln, insbesondere im Umgang mit einer externen Datenquelle (API) und der Umsetzung eines klar strukturierten Frontends mit **React** und **TailwindCSS**. Das gesteckte Ziel, die Website bis zum 07.03.2025 abzuschliessen, wurde erfolgreich erreicht.
+- **Live-Daten** über die CoinGecko-API
+- **Sortierfunktion** (auf/ab) nach Marktkapitalisierung und Handelsvolumen
+- **Watchlist**, in der Nutzer ihre bevorzugten Kryptos speichern können
+- **Responsives Design** mittels TailwindCSS
+
+Auch wenn nicht alle ursprünglich geplanten Ziele (eigener API-Endpunkt, Filterfunktion und Datenbankintegration) umgesetzt werden konnten, gewährleistet die fertige Version einen strukturierten Einblick in relevante Krypto-Kennzahlen. Durch den Fokus auf Benutzerfreundlichkeit und mobile Anpassung liefert das Projekt eine gute Basis für künftige Erweiterungen. Zusätzlich konnte ich wertvolle praktische Erfahrungen in API-Integration und Projektorganisation sammeln, was mir bei zukünftigen Vorhaben helfen wird.
+
 
 *(c) 2025, Raul Gilardoni*  
 
