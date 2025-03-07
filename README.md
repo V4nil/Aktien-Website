@@ -59,6 +59,7 @@ Ich habe alleine eine **Krypto-Website** entwickelt, die umfangreiche Informatio
 
 ### 1.4 Diagramme
 
+![image](https://github.com/user-attachments/assets/2bec49fe-924d-4f19-a7c9-4cd68503a31f)
 
 
 ## 2 Planen
